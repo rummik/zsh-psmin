@@ -1,6 +1,7 @@
 # psmin - minimize your PS1
 
 Switches PS1 and PSMIN.
+
 ![](screenshot.png)
 
 ## Usage
