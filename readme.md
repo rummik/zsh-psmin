@@ -2,9 +2,7 @@
 
 Switches PS1 and PSMIN.
 
-![](screenshot.png)
-
-## Usage
+## Example
 ```
 rummik@electron:~ {0}> psmin
 #%> psmin
